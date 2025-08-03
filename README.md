@@ -14,7 +14,8 @@ Como desarrollador en el equipo WJ3, fui responsable de la programación integra
 ---
 
 🎮 [Demo de Pullulat-Spei en Itch.io](https://wilsongarcia.itch.io/pullulat-spei)
-https://github.com/garciaw602/pullulat-spei/blob/main/gif%20pullulat.gif
+  ![](https://github.com/garciaw602/pullulat-spei/blob/main/gif%20pullulat.gif)
+
 ---
 # 🎮 Pullulat-Spei – Próximamente
 
