@@ -4,6 +4,7 @@ Como desarrollador en el equipo WJ3, fui responsable de la programación integra
 
 #### **Sistemas de Jugabilidad y Entorno**
 
+- **Movimiento del Jugador:** Implementé la mecánica de movimiento del jugador, asegurando una jugabilidad fluida.
 - **Interacción de Objetos:** Implementé la lógica para interactuar con objetos en el entorno, como la mecánica de "agarrar cubos".
 - **Habilidades y Movimiento:** Desarrollé los elementos de impulso (resortes) para que el jugador alcance nuevas alturas, y programé las mecánicas de supervivencia basadas en la gestión de la "batería" o energía limitada.
 - **Gestión de Amenazas:** Creé los sistemas para generar amenazas ambientales de forma dinámica, como barriles rodantes, y la lógica detrás de las zonas de peligro (vacío, zonas tóxicas).
