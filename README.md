@@ -12,8 +12,9 @@ Como desarrollador en el equipo WJ3, fui responsable de la programación integra
 - **Cámara y Fondos:** Implementé el sistema de seguimiento de cámara y, de manera crucial, desarrollé el efecto de paralaje para los fondos, añadiendo una profunda sensación de escala y dinamismo.
 
 ---
-🎮 [Demo de Pullulat-Spei en Itch.io](https://wilsongarcia.itch.io/pullulat-spei)
 
+🎮 [Demo de Pullulat-Spei en Itch.io](https://wilsongarcia.itch.io/pullulat-spei)
+https://github.com/garciaw602/pullulat-spei/blob/main/gif%20pullulat.gif
 ---
 # 🎮 Pullulat-Spei – Próximamente
 
