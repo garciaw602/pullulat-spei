@@ -73,3 +73,25 @@ Los jugadores se embarcan en un viaje a través de entornos meticulosamente dise
 ---
 
 ## 📁 Estructura del Proyecto
+
+Assets/
+│
+├── Art/                # Modelos, texturas y UI
+├── Audio/              # Efectos de sonido y música
+├── Scripts/            # Lógica y mecánica del juego
+├── Scenes/             # Archivos de escena de Unity
+└── Prefabs/            # Objetos de juego reutilizables
+
+
+---
+
+## 📜 Licencia
+
+Este proyecto fue creado con fines educativos y de portafolio. Siéntete libre de explorar, aprender y modificar.
+
+---
+
+## 🙌 Agradecimientos
+
+Un agradecimiento especial a los talentosos miembros del equipo por su dedicación y esfuerzo para dar vida a este proyecto.
+
