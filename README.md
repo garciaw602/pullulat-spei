@@ -1,17 +1,4 @@
-### 🙋‍♂️ Mi Rol y Contribuciones: Wilson García
 
-Como desarrollador en el equipo WJ3, fui responsable de la programación integral del proyecto Pullulat-Spei. Mis principales contribuciones incluyen:
-
-#### **Sistemas de Jugabilidad y Entorno**
-
-- **Movimiento del Jugador:** Implementé la mecánica de movimiento del jugador, asegurando una jugabilidad fluida.
-- **Interacción de Objetos:** Implementé la lógica para interactuar con objetos en el entorno, como la mecánica de "agarrar cubos".
-- **Habilidades y Movimiento:** Desarrollé los elementos de impulso (resortes) para que el jugador alcance nuevas alturas, y programé las mecánicas de supervivencia basadas en la gestión de la "batería" o energía limitada.
-- **Gestión de Amenazas:** Creé los sistemas para generar amenazas ambientales de forma dinámica, como barriles rodantes, y la lógica detrás de las zonas de peligro (vacío, zonas tóxicas).
-- **Programación Audiovisual:** Me encargué de la programación de los sistemas de audio global y del jugador, así como de la activación de efectos de partículas para una experiencia visual envolvente.
-- **Cámara y Fondos:** Implementé el sistema de seguimiento de cámara y, de manera crucial, desarrollé el efecto de paralaje para los fondos, añadiendo una profunda sensación de escala y dinamismo.
-
----
 
 🎮 [Demo de Pullulat-Spei en Itch.io](https://wilsongarcia.itch.io/pullulat-spei)
 
