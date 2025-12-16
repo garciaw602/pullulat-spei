@@ -1,4 +1,4 @@
-
+Un juego de plataformas 2.5D en el que controlas a SPEI-01 en un mundo post-apocalíptico para encontrar y preservar las últimas plantas.
 
 🎮 [Demo de Pullulat-Spei en Itch.io](https://wilsongarcia.itch.io/pullulat-spei)
 
